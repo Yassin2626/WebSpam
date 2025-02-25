@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 ## 📌 Step 6: Run WebSpam
 ```powershell
-python webspam.py
+python WebSpam.py
 ```
 
 ✅ Now your **WebSpam** should start running! 🚀
