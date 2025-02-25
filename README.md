@@ -1,5 +1,5 @@
 # WebSpam
-WebSpam is one of the best free tools to spam any webhook, WebSpam specifically targets discord webhooks to spam them (nuking) it also works with any other webhook
+WebSpam is a powerful and free tool designed for spamming any webhook, with a particular focus on Discord webhooks. Equipped with advanced AI capabilities, WebSpam maximizes the volume of spam requests while potentially bypassing firewalls and security measures for optimal effectiveness. Its specialized features make it especially effective for targeting Discord webhooks, ensuring high-impact performance.
 
 # 🕸️ WebSpam - Installation Guide
 
